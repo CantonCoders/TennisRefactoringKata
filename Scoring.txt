@@ -1,0 +1,19 @@
+﻿Scoring
+You need to score four points to win a game of 
+tennis. The points are known as 15 (1 point), 
+30 (two points), 40 (three points) and the 
+fourth would result in the winning point and 
+the end of that game. If the scores went to 
+40-40 this would be known as deuce. When a 
+game reaches deuce the player must then win 
+by two clear points.
+
+Winning the Game
+To win the game you must win a certain amount 
+of sets (best of three for women’s matches and 
+best of 5 sets for men’s matches). Winning a 
+set is simply the first player to reach 6 games 
+but have to be clear by at least 2 games. If 
+your opponent wins 5 games you must win the set 
+7-5. If the set goes to 6-6 then a tie break is 
+played and it’s simply the first player to 7 points.
